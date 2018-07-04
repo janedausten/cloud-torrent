@@ -1,0 +1,15 @@
+{
+	"name": "eagletorrent",
+	"website": "https://jbox.gq",
+	"repository": "https://github.com/janedausten/cloud-torrent",
+	"env": {
+		"TITLE": {
+			"description": "",
+			"required": true
+		},
+		"AUTH": {
+			"description": "",
+			"required": true
+		}
+	}
+}

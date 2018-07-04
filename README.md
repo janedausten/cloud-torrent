@@ -26,6 +26,9 @@ curl https://i.jpillora.com/cloud-torrent! | bash
 ```
 
 *Tip*: [Auto-run `cloud-torrent` on boot](https://github.com/jpillora/cloud-torrent/wiki/Auto-Run-on-Reboot)
+**Heroku**
+
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
 **Docker**
 
